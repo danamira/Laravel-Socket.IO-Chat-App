@@ -1,4 +1,4 @@
-#Laravel Socket.IO Chat Application
+# Laravel Socket.IO Chat Application
 Simple Laravel chat appication using Socket.IO
 ## 🛠 Installing project and dependencies
 Cone the app from this Github page .
