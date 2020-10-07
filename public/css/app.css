@@ -1,0 +1,13 @@
+#messages {
+  height:400px;
+  overflow-y:scroll;
+}
+#messages .msg {
+  margin-bottom: 10px;
+}
+#messages .msg .options {
+  float: right;
+}
+#toSend {
+  display:block;width:1140px;margin:auto
+}
